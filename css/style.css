@@ -1,3 +1,7 @@
+body{
+  user-select:none;
+}
+
 main {
   border: 2px dashed rgb(84, 84, 84);
   padding: 40px 0px;
